@@ -1,0 +1,46 @@
+
+
+/************************************************CARGA DE REGISTROS EN SWAGGER PARA LA ENTIDAD COMERCIENTE*******************************************************************************/
+
+[{ "nombre":"Juan Pérez", 		"departamento":"Antioquia", 		"municipio":"Medellín", 		"telefono":"3001234567", "correo_electronico":"juan.perez@email.com", 		"fecha_registro":"16-12-2024", "estado":"Activo"},
+{ "nombre":"María López", 		"departamento":"Cundinamarca", 		"municipio":"Bogotá", 			"telefono":"3002345678", "correo_electronico":"maria.lopez@email.com", 		"fecha_registro":"16-12-2024", "estado":"Registrado"},
+{ "nombre":"Carlos García", 	"departamento":"Valle del Cauca", 	"municipio":"Cali", 			"telefono":"3003456789", "correo_electronico":"carlos.garcia@email.com", 	"fecha_registro":"16-12-2024", "estado":"Inactivo"},
+{ "nombre":"Ana Rodríguez", 	"departamento":"Atlántico", 		"municipio":"Barranquilla", 	"telefono":"3004567890", "correo_electronico":"ana.rodriguez@email.com", 	"fecha_registro":"16-12-2024", "estado":"Activo"},
+{ "nombre":"Luis Martínez", 	"departamento":"Santander", 		"municipio":"Bucaramanga", 		"telefono":"3005678901", "correo_electronico":"luis.martinez@email.com", 	"fecha_registro":"16-12-2024", "estado":"Suspendido"},
+{ "nombre":"Sofía Torres", 		"departamento":"Bolívar", 			"municipio":"Cartagena", 		"telefono":"3006789012", "correo_electronico":"sofia.torres@email.com", 	"fecha_registro":"16-12-2024", "estado":"Cancelado"},
+{ "nombre":"Andrés Jiménez", 	"departamento":"Caldas", 			"municipio":"Manizales", 		"telefono":"3007890123", "correo_electronico":"andres.jimenez@email.com", 	"fecha_registro":"16-12-2024", "estado":"Activo"},
+{ "nombre":"Laura Hernández", 	"departamento":"Cauca", 			"municipio":"Popayán", 			"telefono":"3008901234", "correo_electronico":"laura.hernandez@email.com", 	"fecha_registro":"16-12-2024", "estado":"Registrado"},
+{ "nombre":"Diego Castro", 		"departamento":"Nariño", 			"municipio":"Pasto", 			"telefono":"3009012345", "correo_electronico":"diego.castro@email.com", 	"fecha_registro":"16-12-2024", "estado":"Inactivo"},
+{ "nombre":"Valentina Ruiz", 	"departamento":"Boyacá", 			"municipio":"Tunja", 			"telefono":"3000123456", "correo_electronico":"valentina.ruiz@email.com", 	"fecha_registro":"16-12-2024", "estado":"Activo"}]
+
+
+[{ "nombre_establecimiento":"Tienda de Ropa A", 			"ingresos":150000.00, "numero_empleados": 	5, "id_comerciante": 1},
+{ "nombre_establecimiento":"Tienda de Ropa B", 			"ingresos":200000.00, "numero_empleados": 	3, "id_comerciante": 1},
+{ "nombre_establecimiento":"Restaurante A", 			"ingresos":300000.00, "numero_empleados": 10, "id_comerciante": 2},
+{ "nombre_establecimiento":"Restaurante B", 			"ingresos":400000.00, "numero_empleados": 15, "id_comerciante": 2},
+{ "nombre_establecimiento":"Supermercado A", 			"ingresos":500000.00, "numero_empleados": 20, "id_comerciante": 3},
+{ "nombre_establecimiento":"Supermercado B", 			"ingresos":600000.00, "numero_empleados": 25, "id_comerciante": 3},
+{ "nombre_establecimiento":"Farmacia A", 				"ingresos":70000.00,  "numero_empleados":	3, "id_comerciante": 4},
+{ "nombre_establecimiento":"Farmacia B", 				"ingresos":80000.00,  "numero_empleados":	4, "id_comerciante": 4},
+{ "nombre_establecimiento":"Ferretería A", 				"ingresos":90000.00,  "numero_empleados":	6, "id_comerciante": 5},
+{ "nombre_establecimiento":"Ferretería B", 				"ingresos":100000.00, "numero_empleados": 	8, "id_comerciante": 5},
+{ "nombre_establecimiento":"Librería A", 				"ingresos":110000.00, "numero_empleados": 	2, "id_comerciante": 6},
+{ "nombre_establecimiento":"Librería B", 				"ingresos":120000.00, "numero_empleados": 	2, "id_comerciante": 6},
+{ "nombre_establecimiento":"Juguetería A", 				"ingresos":130000.00, "numero_empleados": 	5, "id_comerciante": 7},
+{ "nombre_establecimiento":"Juguetería B", 				"ingresos":140000.00, "numero_empleados": 	3, "id_comerciante": 7},
+{ "nombre_establecimiento":"Panadería A", 				"ingresos":150000.00, "numero_empleados": 	4, "id_comerciante": 8},
+{ "nombre_establecimiento":"Panadería B", 				"ingresos":160000.00, "numero_empleados": 	3, "id_comerciante": 8},
+{ "nombre_establecimiento":"Barbería A", 				"ingresos":170000.00, "numero_empleados": 	2, "id_comerciante": 9},
+{ "nombre_establecimiento":"Barbería B", 				"ingresos":180000.00, "numero_empleados": 	2, "id_comerciante": 9},
+{ "nombre_establecimiento":"Salón de Belleza A", 		"ingresos":190000.00, "numero_empleados": 	4, "id_comerciante": 10},
+{ "nombre_establecimiento":"Salón de Belleza B", 		"ingresos":200000.00, "numero_empleados": 	5, "id_comerciante": 10},
+{ "nombre_establecimiento":"Zapatería A", 				"ingresos":210000.00, "numero_empleados": 	3, "id_comerciante": 1},
+{ "nombre_establecimiento":"Zapatería B", 				"ingresos":220000.00, "numero_empleados": 	4, "id_comerciante": 1},
+{ "nombre_establecimiento":"Restaurante C", 			"ingresos":250000.00, "numero_empleados": 12, "id_comerciante": 2},
+{ "nombre_establecimiento":"Ferretería C", 				"ingresos":270000.00, "numero_empleados": 	6, "id_comerciante": 3},
+{ "nombre_establecimiento":"Tienda de Electrónica A", 	"ingresos":280000.00, "numero_empleados": 	8, "id_comerciante": 4},
+{ "nombre_establecimiento":"Tienda de Electrónica B", 	"ingresos":290000.00, "numero_empleados": 	9, "id_comerciante": 5},
+{ "nombre_establecimiento":"Tienda de Ropa C", 			"ingresos":300000.00, "numero_empleados": 	7, "id_comerciante": 6},
+{ "nombre_establecimiento":"Restaurante D", 			"ingresos":310000.00, "numero_empleados": 11, "id_comerciante": 7},
+{ "nombre_establecimiento":"Farmacia C", 				"ingresos":32000.00,  "numero_empleados":	2, "id_comerciante": 8},
+{ "nombre_establecimiento":"Supermercado C", 			"ingresos":330000.00, "numero_empleados": 22, "id_comerciante": 9}]
